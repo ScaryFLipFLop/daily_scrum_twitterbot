@@ -20,15 +20,15 @@ require 'chatterbot/dsl'
 # trying to run your bot. You can safely remove them once you've
 # looked through this file.
 #
-puts "========================"
-puts "========================"
-puts "========================"
-puts "\n\n\n"
+#puts "========================"
+#puts "========================"
+#puts "========================"
+#puts "\n\n\n"
 
-puts "Hey there! You should open do_scrum.rb and take a look before running this script."
+#puts "Hey there! You should open do_scrum.rb and take a look before running this script."
 
-puts "\n\n\n"
-exit
+#puts "\n\n\n"
+#exit
 
 
 
@@ -50,7 +50,7 @@ exit
 # Enabling **debug_mode** prevents the bot from actually sending
 # tweets. Keep this active while you are developing your bot. Once you
 # are ready to send out tweets, you can remove this line.
-debug_mode
+#debug_mode
 
 # Chatterbot will keep track of the most recent tweets your bot has
 # handled so you don't need to worry about that yourself. While
@@ -58,7 +58,7 @@ debug_mode
 # chatterbot from updating those values. This directive can also be
 # handy if you are doing something advanced where you want to track
 # which tweet you saw last on your own.
-no_update
+#no_update
 
 # remove this to get less output when running your bot
 verbose
@@ -86,7 +86,7 @@ exclude bad_words
 # This will restrict your bot to tweets that come from accounts that
 # are following your bot. A tweet from an account that isn't following
 # will be rejected
-only_interact_with_followers
+#only_interact_with_followers
 
 #
 # Specifying 'use_streaming' will cause Chatterbot to use Twitter's
@@ -95,7 +95,7 @@ only_interact_with_followers
 # case, do not use this line. Every time you run your bot, it will
 # execute once, and then exit.
 #
-use_streaming
+#use_streaming
 
 #
 # Here's the fun stuff!
@@ -130,8 +130,8 @@ use_streaming
 # something with DMs, go for it!
 # 
 # direct_messages do |dm|
-#  puts "DM received: #{dm.text}"
-#  direct_message "HELLO, I GOT YOUR MESSAGE", dm.sender
+ # puts "DM received: #{dm.text}"
+ # direct_message "Hi there, I got your message", dm.sender
 # end
 
 #
@@ -192,9 +192,17 @@ end
  
 data = File.read(SOURCE).split(/\n/)
 
-source = data[ bot.config[:index] ]
-puts source
+source_pre = data[ bot.config[:index] ]
 
+final = "#{source_pre} #Agile #SCRUM"
+
+tweet(final)
+
+if bot.config[:index] == 121 then
+	bot.config[:index] = nil
+else
+	bot.config[:index] += 1
+end
 
 
 
