@@ -182,7 +182,7 @@ use_streaming
 #
 #end
   
-SOURCE = "tips.txt"
+SOURCE = "random_daily_scrum_tips.txt"
 
 bot.config[:index] ||= 0
 
