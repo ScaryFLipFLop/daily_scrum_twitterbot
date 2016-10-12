@@ -1,0 +1,122 @@
+In software, predictability is a rare thing: which is why the reliability of the team is so important.
+Backlog grooming includes the whole team at least once a sprint, but some sessions may not need everyone.
+Don't spend too much time refining backlog items for 3 or 4 sprints ahead, by then they may have dropped off the list.
+Ensure stories that'll be moving into the next sprint planning session have a defined acceptance and test criteria.
+When talking about a story, the questions is -  How big is it?  not - How long will it take?
+The dev team must understand the overall roadmap in order to gain a sense of shared ownership.
+Stick impediments up on a wall. Making them visible means they're harder to ignore, adding pressure to resolve them.
+At sprint planning discuss all the features in detail. What should they do? How should they work?
+Scrum Masters work to maximise the value that the dev team creates.
+Don't wait until the daily scrum hear about impediments. The earlier they're out in the open, the sooner they can be resolved.
+Scrum teams should be self-organising, so the less the Scrum Master has to say during ceremonies, the better.
+Once stories in the product backlog have been assigned story points, it's likely that the PO with re-prioritise.
+A team's definition of done depends on their capacity and capabilities.
+During sprint planning team members should break stories down into individual tasks. These can be estimated in hours.
+The best architectures, requirements, and designs emerge from self-organising teams.
+Perfect is the enemy of good. Get work done and release it for feedback rather than striving for perfection.
+Agile processes promote sustainable development. Sponsors, developers, and users should be able to maintain a constant pace.
+Spike tasks are timeboxed to limit risk. If the outcome is inconclusive then the team can evaluate if they need another.
+The Scrum Team and stakeholders need to be open about the work and the challenges in carrying it out.
+Use the daily scrum to uncover issues but work on them in a separate session where you only bring in relevant team members.
+One output from the sprint retrospective should be a plan for implementing any identified improvements.
+A sprint goal is a one or two sentence description of what we're looking to achieve with the sprint.
+Story review: the whole team comes together to look at stories for the next iteration.
+Changing the facilitator for each retrospective can help to keep them fresh.
+As Scrum Master if you focus on successfully facilitating collaboration then performance will be the by-product.
+During product backlog grooming everyone should ask questions - the team needs to understand what each story is for.
+Make sure product backlog grooming is producing a steady flow of stories ready for sprint planning.
+A Scrum Master should facilitate the daily stand up, keeping it focussed, noting and addressing impediments.
+Seek out impediments: ask the team. What can help them complete tasks faster? What could improve the quality of their work?
+Working software over comprehensive documentation.
+Sprint retrospective: What went well? Then repeat. What could have gone better? (why?)
+Individuals and interactions over processes and tools.
+When triaging impediments ask whether they will prevent the team achieving the sprint goal to gauge severity.
+The more collaborative the team, the better their performance. Focus on collaboration first and the rest will follow.
+Product backlog item definition of ready: well defined? test criteria? been estimated? acceptance criteria?
+Make sure that you're spending more time resolving impediments than you are managing them.
+Scrum teams are cross-functional: members should be able to accomplish the work without depending on outside parties.
+An impediment backlog allows you to prioritise impediments according to effort vs reward.
+Keep a backlog of impediments and rank them in order of priority / impact / difficulty.
+Simplicity: the art of maximizing the amount of work not done .... is essential.
+The dev team should be self-managing. This means each member takes responsibility for their work and the product.
+There is always an impediment. There is always something that could be better. Find it and fix it.
+What will you do today? In the daily scrum the answer to this question is a commitment to teammates.
+Add stretch tasks to a sprint backlog. If they're completed it's a bonus, but this shouldn't be expected.
+Progressive refinement: making big tasks smaller over time.
+Scrum teams are self-organising: they choose how to carry out the work rather than being directed by a project manager.
+At sprint planning the team can get clarifications on requirements by discussing them in detail with the PO.
+Sprint review allows stakeholders to see progress and provide feedback before it's too late for the team to take it on board.
+The Scrum Team should embody the values of respect, commitment, openness, courage and focus.
+Welcome changing requirements, even late in development.
+Decide on a sprint duration as a team. This could be 1 to 3 weeks but the important thing is to keep it consistent.
+Give the product owner time to iron out backlog issues with a refinement meeting a few days before a new sprint.
+The new increment is the sum previous increments + the product backlog items completed in the current sprint.
+Scrum ceremonies require team buy-in: listen to team feedback and adapt to a style that works best for everyone.
+The dev team and PO should take part in sprint retrospectives, a good time is straight after the sprint review.
+At the sprint retrospective review your team's velocity. Make a note of it so that you can track it across sprints.
+Story point estimates made through planning poker are only the basis for discussion - they can be revised
+Use a definition of ready to determine if a product backlog item can be pulled into sprint planning.
+The pace of technological change means the team must continually adapt to deliver optimal value.
+What did you do yesterday? What will you do today? Are there any impediments in your way?
+Responding to change over following a plan.
+Questions raised at backlog refinement needn't be resolved if the team understands the story enough for sprint planning.
+If a story is difficult to estimate, it may mean the team needs to carry out a spike.
+Limit the number of active impediments to focus on which can deliver the most attractive effort to value ratio.
+Story points allow us to baseline the effort involved with different stories so that we can prioritise.
+Remember: stories should be estimated by size rather than time.
+Business people and developers must work together daily throughout the project.
+For sprint planning you can collaborate using a whiteboard on a wall, a Kanban board or software like Trello and Jira.
+Use a Kanban board during the daily scrum to keep focus on tasks for the current sprint.
+During the daily scrum, try throwing a ball to determine who speaks next.
+At the product backlog refinement meeting the team should ask questions that'd normally arise during sprint planning.
+Scrum Masters help those outside the dev team to understand which interactions help, and which hinder.
+A regular product backlog refinement meeting should make sprint planning run more smoothly.
+During sprint planning it's good for the PO to explain how they see each feature working.
+When a sprint is too long there's greater chance of risk, change and complexity. Keep them under a month at most.
+Product backlog grooming: determining if an item is ready, if not then what's missing?
+Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+Before jumping into a solution, make sure that you fully understand the problem.
+The definition of done is the primary reporting mechanism for dev team members.
+At sprint planning define an overall objective, this adds clarity and will help the PO explain the sprint to stakeholders.
+During the sprint retrospective you can review the final burndown chart and compare with those from other sprints.
+Scrum artefacts are there to provide transparency of information for improved understanding.
+There are impediments that slow progress, then there are those that stop it completely. Make sure you prioritise accordingly.
+Sprint retrospective questions: what should we do differently in the next sprint?
+Transparency doesn't happen overnight, it's obtained gradually through openness and communication.
+Sprint reviews are the one ceremony that generally involves everyone from the dev team and stakeholders.
+Sprint review is the chance for team members to demo what they've achieved and show their contribution.
+At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.
+Retrospectives are to learn and improve, not to blame. Keep them positive and constructive.
+Our highest priority is to satisfy the customer through early + continuous delivery of valuable software.
+Customer collaboration over contract negotiation.
+A daily burndown chart provides good tracking and visibility of progress.
+A rule of thumb for sprint review duration is 1hr per week sprint length.
+Continuous attention to technical excellence and good design enhances agility.
+During the daily scrum, keep the person that's talking focussed on the team rather than reporting to the Scrum Master.
+Spikes can be put on the product backlog or the sprint backlog. Whatever the team collectively decides works best.
+Planning poker is a great way for a team to estimate task size. It's also fun!
+When product backlog grooming, target stories 2 or 3 iterations ahead to provide a steady flow for subsequent sprints.
+Working with other Scrum Masters and sharing knowledge increases the effectiveness of Scrum in your organisation.
+Story points are a measure of effort to implement a story, arrived at by the Scrum team.
+Dev team members presenting their contribution at sprint reviews really gives them ownership of their work.
+The most efficient and effective method of conveying information to and within a dev team is face-to-face conversation.
+Working software is the primary measure of progress.
+There are lots of tools you can use to produce burndown charts: Spreadsheets, Trello plugins and Jira among others.
+Impediments at an organisational level need to be escalated to organisational stakeholders with the PO.
+Any feedback during a sprint review that results in changes needs to be turned into a new product backlog item.
+Occasional evaluations of you sprint retrospective outputs will allow you to make them better.
+At the end of each day the team should note the hours remaining on their tasks for the daily burndown chart.
+Build projects around motivated individuals. Provide the environment and support they need, trust them to get the job done.
+A team is a group of people working together towards shared goals. It's much more than just working on the same project.
+Velocity is the amount of work that a Scrum team can do in a sprint. It's equal to the total points from completed stories.
+Before carrying out a spike task, make sure that the team are clear on what they need to get out of it.
+Estimates on stories are based on size rather than duration. Planning poker is a fun way to arrive at these.
+A spike is a story or task with the aim of gathering more information instead of shippable product.
+Timebox your daily stand-ups to 15 minutes to keep the sessions brief and to the point.
+Each Scrum ceremony provides an opportunity to inspect and adapt something.
+When estimating stories you should only size the items that you'll get to in the foreseeable future.
+Breaking features into tasks for sprint planning, if the estimate is more than sprint length you'll need to reduce the items.
+High priority stories identified as not ready are great candidates for a backlog refinement session.
+In the daily scrum the team can gain an understanding of what work has been done and what remains.
+Sprint retrospective questions: How did things go and how can we improve next time?
+Product backlog refinement meetings don't need the whole team, if someone isn't needed they can miss the meeting.
