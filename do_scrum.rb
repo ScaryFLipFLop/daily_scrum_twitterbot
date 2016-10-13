@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'rubygems'
-require 'chatterbot/dsl'
+require_relative 'chatterbot/dsl'
 
 #This is some starter code for your bot. You will need to keep
 # this file and do_scrum.yml together to run your bot. The .yml file
