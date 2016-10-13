@@ -2,7 +2,7 @@ In software, predictability is a rare thing: which is why the reliability of the
 Backlog grooming includes the whole team at least once a sprint, but some sessions may not need everyone.
 Don't spend too much time refining backlog items for 3 or 4 sprints ahead, by then they may have dropped off the list.
 Ensure stories that'll be moving into the next sprint planning session have a defined acceptance and test criteria.
-When talking about a story, the questions is -  How big is it?  not - How long will it take?
+When talking about a story, the question is -  How big is it?  not - How long will it take?
 The dev team must understand the overall roadmap in order to gain a sense of shared ownership.
 Stick impediments up on a wall. Making them visible means they're harder to ignore, adding pressure to resolve them.
 At sprint planning discuss all the features in detail. What should they do? How should they work?
