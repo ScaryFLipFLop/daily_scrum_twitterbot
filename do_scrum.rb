@@ -183,6 +183,8 @@ exclude bad_words
 #end
   
 SOURCE = "random_daily_scrum_tips.txt"
+# You may need to add the path to the source file so that cron can find it. Eg. /home/sash/daily_scrum_twitter/random_daily_scrum_tips.txt
+
 
 bot.config[:index] ||= 0
 
@@ -194,7 +196,7 @@ data = File.read(SOURCE).split(/\n/)
 
 source_pre = data[ bot.config[:index] ]
 
-final = "#{source_pre} #Agile #SCRUM"
+final = "#{source_pre} #Agile #Scrum"
 
 tweet(final)
 
